@@ -1,0 +1,8 @@
+Job-1->Worker-1 (Day: 0)
+Job-2->Worker-2 (Day: 0)
+Job-3->Worker-3 (Day: 0)
+Job-4->Worker-1 (Day: 3)
+Job-5->Worker-2 (Day: 3)
+Job-6->Worker-3 (Day: 4)
+Job-7->Worker-1 (Day: 6)
+All jobs are completed in 11 days.
